@@ -1,62 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce9828c2-c497-46f1-a57c-7b9cbccbd835" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Account/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Account/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Account/target/streams/compile/copyResources/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Account/target/streams/compile/exportedProducts/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Account/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Account/target/streams/test/compile/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Account/target/streams/test/compileIncremental/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Account/target/streams/test/compileIncremental/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Account/target/streams/test/dependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Account/target/streams/test/internalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notification/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notification/target/streams/test/$global/$global/definedTestNames/data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notification/target/streams/test/$global/$global/discoveredMainClasses/data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/$global/$global/definedTestNames/data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/$global/$global/discoveredMainClasses/data" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Account/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/Account/target/streams/compile/compileIncremental/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Account/target/streams/test/test/$global/streams/out" afterPath="$PROJECT_DIR$/Account/target/streams/test/test/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/checkoutServices/target/streams/$global/projectDescriptors/$global/streams/out" afterPath="$PROJECT_DIR$/checkoutServices/target/streams/$global/projectDescriptors/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inventory/target/streams/$global/$global/$global/streams/out" afterPath="$PROJECT_DIR$/inventory/target/streams/$global/$global/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inventory/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/inventory/target/streams/$global/updateSbtClassifiers/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inventory/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/inventory/target/streams/compile/compileIncremental/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notification/target/streams/$global/clean/$global/streams/out" afterPath="$PROJECT_DIR$/notification/target/streams/$global/clean/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Account/src/main/scala/service/AccountServices.scala" afterPath="$PROJECT_DIR$/Account/src/main/scala/service/AccountServices.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Account/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/Account/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Account/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/Account/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apiResources/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/apiResources/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/checkoutServices/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/checkoutServices/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/target/streams/$global/projectDescriptors/$global/streams/out" afterPath="$PROJECT_DIR$/dashboard/target/streams/$global/projectDescriptors/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dashboard/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/dashboard/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inventory/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/inventory/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inventory/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/inventory/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notification/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/notification/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notification/target/streams/test/definedTests/$global/streams/out" afterPath="$PROJECT_DIR$/notification/target/streams/test/definedTests/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notification/target/streams/test/test/$global/streams/out" afterPath="$PROJECT_DIR$/notification/target/streams/test/test/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-compile-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-compile.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-docs.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-optional.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-plugin.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-pom.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-provided.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-runtime.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-scala-tool.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-scoveragePlugin.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-scoveragePlugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-sources.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-test-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/reports/root-root_2.10-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/root/root_2.10/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/root/root_2.10/0.1-SNAPSHOT/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/root/root_2.10/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/scala-2.10/resolution-cache/root/root_2.10/0.1-SNAPSHOT/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
-    </list>
+    <list default="true" id="ce9828c2-c497-46f1-a57c-7b9cbccbd835" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
