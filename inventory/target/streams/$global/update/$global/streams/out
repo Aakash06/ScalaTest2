@@ -1,5 +1,7 @@
 [0m[[0minfo[0m] [0mUpdating {file:/home/knoldus/IdeaProjects/ScalaTake2/}inventory...[0m
 [0m[[0mdebug[0m] [0mno default cache defined: set to /home/knoldus/.ivy2/cache[0m
+[0m[[0mdebug[0m] [0mno default cache defined: set to /home/knoldus/.ivy2/cache[0m
+[0m[[0mdebug[0m] [0mno default cache defined: set to /home/knoldus/.ivy2/cache[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: inventory#inventory_2.12;1.0[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool, scoveragePlugin][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -1007,7 +1009,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.14.3!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scoverage#scalac-scoverage-plugin_2.12;1.3.0!scalac-scoverage-plugin_2.12.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 667ms :: artifacts dl 15ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 531ms :: artifacts dl 18ms[0m
 [0m[[0mdebug[0m] [0m	report for inventory#inventory_2.12;1.0 compile produced in /home/knoldus/IdeaProjects/ScalaTake2/inventory/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for inventory#inventory_2.12;1.0 runtime produced in /home/knoldus/IdeaProjects/ScalaTake2/inventory/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for inventory#inventory_2.12;1.0 test produced in /home/knoldus/IdeaProjects/ScalaTake2/inventory/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-test.xml[0m
@@ -1022,5 +1024,5 @@
 [0m[[0mdebug[0m] [0m	report for inventory#inventory_2.12;1.0 pom produced in /home/knoldus/IdeaProjects/ScalaTake2/inventory/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for inventory#inventory_2.12;1.0 scala-tool produced in /home/knoldus/IdeaProjects/ScalaTake2/inventory/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-scala-tool.xml[0m
 [0m[[0mdebug[0m] [0m	report for inventory#inventory_2.12;1.0 scoveragePlugin produced in /home/knoldus/IdeaProjects/ScalaTake2/inventory/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-scoveragePlugin.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (667ms resolve - 15ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (531ms resolve - 18ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

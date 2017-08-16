@@ -18,7 +18,7 @@ class AccountServices {
     8447018441L -> "Aakash06", 8978456525L -> "kapil14")
 
   def addUser(firstName:String,lastName:String,phoneNumber:Long,password:String,confirmPassword:String,userName:String): Future[String] = Future{
-    if (password.equals(confirmPassword)){
+    if (!password.equals(confirmPassword)){
       s"Password doesn't match"
     }
     else if(userDataMap.contains(phoneNumber)){

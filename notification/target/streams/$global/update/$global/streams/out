@@ -119,7 +119,6 @@
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.2 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.2 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.2 {scala-tool=[default, optional(default)], compile=[default(compile)]}[0m
 [0m[[0minfo[0m] [0mResolving org.scalatest#scalatest_2.12;3.0.3 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scalatest#scalatest_2.12;3.0.3 {test=[default(compile)]}[0m
-[0m[[0mdebug[0m] [0mno default cache defined: set to /home/knoldus/.ivy2/cache[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scalatest#scalatest_2.12;3.0.3[0m
 [0m[[0mdebug[0m] [0m	found org.scalatest#scalatest_2.12;3.0.3 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies notification#notification_2.12;1.0->org.scalatest#scalatest_2.12;3.0.3 [test->runtime][0m
@@ -1007,7 +1006,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.14.3!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scoverage#scalac-scoverage-plugin_2.12;1.3.0!scalac-scoverage-plugin_2.12.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 285ms :: artifacts dl 9ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 372ms :: artifacts dl 11ms[0m
 [0m[[0mdebug[0m] [0m	report for notification#notification_2.12;1.0 compile produced in /home/knoldus/IdeaProjects/ScalaTake2/notification/target/scala-2.12/resolution-cache/reports/notification-notification_2.12-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for notification#notification_2.12;1.0 runtime produced in /home/knoldus/IdeaProjects/ScalaTake2/notification/target/scala-2.12/resolution-cache/reports/notification-notification_2.12-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for notification#notification_2.12;1.0 test produced in /home/knoldus/IdeaProjects/ScalaTake2/notification/target/scala-2.12/resolution-cache/reports/notification-notification_2.12-test.xml[0m
@@ -1022,5 +1021,5 @@
 [0m[[0mdebug[0m] [0m	report for notification#notification_2.12;1.0 pom produced in /home/knoldus/IdeaProjects/ScalaTake2/notification/target/scala-2.12/resolution-cache/reports/notification-notification_2.12-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for notification#notification_2.12;1.0 scala-tool produced in /home/knoldus/IdeaProjects/ScalaTake2/notification/target/scala-2.12/resolution-cache/reports/notification-notification_2.12-scala-tool.xml[0m
 [0m[[0mdebug[0m] [0m	report for notification#notification_2.12;1.0 scoveragePlugin produced in /home/knoldus/IdeaProjects/ScalaTake2/notification/target/scala-2.12/resolution-cache/reports/notification-notification_2.12-scoveragePlugin.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (285ms resolve - 9ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (372ms resolve - 11ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
