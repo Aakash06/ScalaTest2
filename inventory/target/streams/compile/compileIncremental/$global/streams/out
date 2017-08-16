@@ -1,38 +1,63 @@
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
 [0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
-[0m[[0mdebug[0m] [0m[naha] 	added: Set(/home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/models/Vendor.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/services/InventoryServices.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/services/BackendServices.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/models/Item.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/models/Price.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/models/Inventory.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/services/InventoryServices.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/services/BackendServices.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/models/Item.scala)[0m
 [0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/models/Vendor.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/services/InventoryServices.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/services/BackendServices.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/models/Item.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/models/Price.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/models/Inventory.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/services/InventoryServices.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/services/BackendServices.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/models/Item.scala)[0m
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/models/Vendor.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/services/InventoryServices.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/services/BackendServices.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/models/Item.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/models/Price.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/models/Inventory.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/models/Vendor.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/services/InventoryServices.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/services/BackendServices.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/models/Item.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/models/Price.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/models/Inventory.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Recompiling all 6 sources: invalidated sources (6) exceeded 50.0% of all sources[0m
-[0m[[0minfo[0m] [0mCompiling 6 Scala sources to /home/knoldus/IdeaProjects/ScalaTake2/inventory/target/scala-2.10/classes...[0m
-[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.10.6[0m
-[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.10.6[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 330c8464, interfacing (CompilerInterface) with Scala compiler version 2.10.6[0m
-[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/services/InventoryServices.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/services/BackendServices.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/models/Item.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/services/InventoryServices.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/services/BackendServices.scala, /home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/models/Item.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 3 sources: invalidated sources (3) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 3 Scala sources to /home/knoldus/IdeaProjects/ScalaTake2/inventory/target/scala-2.12/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.12.2[0m
+[0m[[0minfo[0m] [0m'compiler-interface' not yet compiled for Scala 2.12.2. Compiling...[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.12.2  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_55c3278a[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
-[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/knoldus/.sbt/boot/scala-2.10.6/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/knoldus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
-[0m[[0mdebug[0m] [0m	/home/knoldus/IdeaProjects/ScalaTake2/inventory/target/scala-2.10/classes[0m
-[0m[[31merror[0m] [0m/home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/services/InventoryServices.scala:19: Cannot find an implicit ExecutionContext, either import scala.concurrent.ExecutionContext.Implicits.global or use a custom one[0m
-[0m[[31merror[0m] [0m def searchItem(inventory: Inventory,categoryName:String,itemName:String,filter:Option[String]): Future[List[Item]] = Future{[0m
-[0m[[31merror[0m] [0m                                                                                                                            ^[0m
-[0m[[31merror[0m] [0m/home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/services/InventoryServices.scala:31: Cannot find an implicit ExecutionContext, either import scala.concurrent.ExecutionContext.Implicits.global or use a custom one[0m
-[0m[[31merror[0m] [0m  def returnPrice(inventory: Inventory,id:Long): Future[Price] =Future{[0m
-[0m[[31merror[0m] [0m                                                                      ^[0m
-[0m[[31merror[0m] [0m/home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/services/InventoryServices.scala:35: Cannot find an implicit ExecutionContext, either import scala.concurrent.ExecutionContext.Implicits.global or use a custom one[0m
-[0m[[31merror[0m] [0m  def updateItemCount(inventory: Inventory,itemId:Long,count:Int,f:(Int,Int)=>Int): Future[Item] =Future{[0m
-[0m[[31merror[0m] [0m                                                                                                        ^[0m
-[0m[[31merror[0m] [0mthree errors found[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.16/xsbti/interface-0.13.16.jar:/tmp/sbt_8dfc37a0/srcs/org.scala-sbt/compiler-interface/compiler-interface-0.13.16-sources.jar:/home/knoldus/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.12.2.jar:/home/knoldus/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.2.jar:/home/knoldus/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/bundles/scala-xml_2.12-1.0.6.jar:/home/knoldus/.ivy2/cache/jline/jline/jars/jline-2.14.3.jar[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_78ba4510/xsbt/API.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_78ba4510/xsbt/Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_78ba4510/xsbt/Command.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_78ba4510/xsbt/Compat.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_78ba4510/xsbt/CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_78ba4510/xsbt/ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_78ba4510/xsbt/DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_78ba4510/xsbt/Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_78ba4510/xsbt/ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_78ba4510/xsbt/ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_78ba4510/xsbt/GlobalHelpers.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_78ba4510/xsbt/LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_78ba4510/xsbt/Log.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_78ba4510/xsbt/Message.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_78ba4510/xsbt/ScaladocInterface.scala[0m
+[0m[[0minfo[0m] [0m  Compilation completed in 17.023 s[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.12.2[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 2e9e9e87, interfacing (CompilerInterface) with Scala compiler version 2.12.2[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-Xplugin:/home/knoldus/.ivy2/cache/org.scoverage/scalac-scoverage-plugin_2.12/jars/scalac-scoverage-plugin_2.12-1.3.0.jar[0m
+[0m[[0mdebug[0m] [0m	-P:scoverage:dataDir:/home/knoldus/IdeaProjects/ScalaTake2/inventory/target/scala-2.12/scoverage-data[0m
+[0m[[0mdebug[0m] [0m	-Yrangepos[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/knoldus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/knoldus/IdeaProjects/ScalaTake2/inventory/target/scala-2.12/classes:/home/knoldus/.ivy2/cache/org.scoverage/scalac-scoverage-runtime_2.12/jars/scalac-scoverage-runtime_2.12-1.3.0.jar[0m
+[0m[[31merror[0m] [0m/home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/models/Item.scala:3: not found: type Vendor[0m
+[0m[[31merror[0m] [0mcase class Item(id :Long,name:String,vendor:Vendor,rating:Int,category:String,price: Double,stock : Int)[0m
+[0m[[31merror[0m] [0m                                            ^[0m
+[0m[[31merror[0m] [0m/home/knoldus/IdeaProjects/ScalaTake2/inventory/src/main/scala/services/BackendServices.scala:7: type Inventory is not a member of package models[0m
+[0m[[31merror[0m] [0m  def addItemInInventory(inventory: models.Inventory, name:String,photo: String,vendor:Long,category:String,price: Double,stock : Int)={[0m
+[0m[[31merror[0m] [0m                                           ^[0m
+[0m[[31merror[0m] [0mtwo errors found[0m
 [0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
 [0m[[31merror[0m] [0m(inventory/compile:[31mcompileIncremental[0m) Compilation failed[0m

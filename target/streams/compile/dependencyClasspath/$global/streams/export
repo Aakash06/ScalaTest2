@@ -1,1 +1,1 @@
-/home/knoldus/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/knoldus/.sbt/boot/scala-2.10.6/lib/scala-library.jar:/home/knoldus/.ivy2/cache/org.scoverage/scalac-scoverage-runtime_2.10/jars/scalac-scoverage-runtime_2.10-1.3.0.jar

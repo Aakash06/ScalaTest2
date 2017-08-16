@@ -23,7 +23,7 @@ class InventoryServices {
     }
   }
 
-  def sortByPrice(category:String,sortBy:String)= Future{
+  def sortByPrice(category:String,sortBy:String): Future[List[Item]] = Future{
 
     val list: List[Item] = InventoryMap(category)
 
@@ -40,7 +40,7 @@ class InventoryServices {
     }
   }
 
-  def sortByrating(category:String,sortBy:String)= Future{
+  def sortByrating(category:String,sortBy:String): Future[List[Item]] = Future{
 
     val list: List[Item] = InventoryMap(category)
 
@@ -57,11 +57,8 @@ class InventoryServices {
     }
   }
 
-  def returnPrice(inventory: Inventory,id:Long): Future[Price] =Future{
-    inventory.item.filter(_.id==id).head.price
-  }
-
-  def updateItemCount(inventory: Inventory,itemId:Long,count:Int,f:(Int,Int)=>Int): Future[Item] =Future{
+  /*
+  def updateItemCount(itemId:Long,count:Int): Future[Item] =Future{
 
     val item:Option[Item] = inventory.item.find(_.id== itemId)
 
@@ -73,5 +70,5 @@ class InventoryServices {
       }
       case None => throw new NoSuchElementException
     }
-  }
+  }*/
 }
